@@ -11,7 +11,7 @@ body{
      sans-serif;
 }
 html{
-    background: hsl(218, 22%, 67%);
+    background: hsl(216, 60%, 79%);
     background-blend-mode: screen;
     opacity: 70%;
 }
@@ -46,7 +46,7 @@ html{
     color: hsl(71, 73%, 54%);
 }
 .section-one-flex > p{
-    margin: 5px 60px 40px 35px;
+    margin: 5px 80px 40px 35px;
     color: hsl(218, 22%, 67%);
 }
 
@@ -54,7 +54,7 @@ html{
 
 .section-two-flex{
     grid-area: sect2;
-    background: hsla(179, 63%, 38%, 0.842);
+    background: hsla(179, 79%, 25%, 0.842);
     position: relative;
     border-radius: 0px 0px 0px 10px;
 }
